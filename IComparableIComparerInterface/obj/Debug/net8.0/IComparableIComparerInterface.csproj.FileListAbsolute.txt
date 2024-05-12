@@ -1,0 +1,15 @@
+C:\Users\Yeabsra\Desktop\CSharp_Concepts\IComparableIComparerInterface\bin\Debug\net8.0\IComparableIComparerInterface.exe
+C:\Users\Yeabsra\Desktop\CSharp_Concepts\IComparableIComparerInterface\bin\Debug\net8.0\IComparableIComparerInterface.deps.json
+C:\Users\Yeabsra\Desktop\CSharp_Concepts\IComparableIComparerInterface\bin\Debug\net8.0\IComparableIComparerInterface.runtimeconfig.json
+C:\Users\Yeabsra\Desktop\CSharp_Concepts\IComparableIComparerInterface\bin\Debug\net8.0\IComparableIComparerInterface.dll
+C:\Users\Yeabsra\Desktop\CSharp_Concepts\IComparableIComparerInterface\bin\Debug\net8.0\IComparableIComparerInterface.pdb
+C:\Users\Yeabsra\Desktop\CSharp_Concepts\IComparableIComparerInterface\obj\Debug\net8.0\IComparableIComparerInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yeabsra\Desktop\CSharp_Concepts\IComparableIComparerInterface\obj\Debug\net8.0\IComparableIComparerInterface.AssemblyInfoInputs.cache
+C:\Users\Yeabsra\Desktop\CSharp_Concepts\IComparableIComparerInterface\obj\Debug\net8.0\IComparableIComparerInterface.AssemblyInfo.cs
+C:\Users\Yeabsra\Desktop\CSharp_Concepts\IComparableIComparerInterface\obj\Debug\net8.0\IComparableIComparerInterface.csproj.CoreCompileInputs.cache
+C:\Users\Yeabsra\Desktop\CSharp_Concepts\IComparableIComparerInterface\obj\Debug\net8.0\IComparableIComparerInterface.sourcelink.json
+C:\Users\Yeabsra\Desktop\CSharp_Concepts\IComparableIComparerInterface\obj\Debug\net8.0\IComparableIComparerInterface.dll
+C:\Users\Yeabsra\Desktop\CSharp_Concepts\IComparableIComparerInterface\obj\Debug\net8.0\refint\IComparableIComparerInterface.dll
+C:\Users\Yeabsra\Desktop\CSharp_Concepts\IComparableIComparerInterface\obj\Debug\net8.0\IComparableIComparerInterface.pdb
+C:\Users\Yeabsra\Desktop\CSharp_Concepts\IComparableIComparerInterface\obj\Debug\net8.0\IComparableIComparerInterface.genruntimeconfig.cache
+C:\Users\Yeabsra\Desktop\CSharp_Concepts\IComparableIComparerInterface\obj\Debug\net8.0\ref\IComparableIComparerInterface.dll
