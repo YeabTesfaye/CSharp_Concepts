@@ -7,6 +7,8 @@ class Program
 {
     public static void Main(string[] args)
     {
+        /*
+        //  Implementation and example of IComparable
         List<SmartPhone> smartPhones =
             [
                 new SmartPhone()
@@ -52,6 +54,48 @@ class Program
         {
             Console.WriteLine(item.ToString());
         }
+
+        */
+
+         List<Display> displays =
+          [
+              new Display()  
+              {  
+                  PPI = 224,  
+                  Resolution = "1080 * 1920",  
+                  Size = "6.1"                      
+              },  
+              new Display()  
+              {  
+                  PPI = 300,  
+                  Resolution = "1440 * 2180",  
+                  Size = "7.1"  
+              },  
+              new Display()  
+              {  
+                  PPI = 115,  
+                  Resolution = "564 * 900",  
+                  Size = "4.2"  
+              },  
+              new Display()  
+              {  
+                  PPI = 160,  
+                  Resolution = "880 * 980",  
+                  Size = "5"  
+              }  
+          ];  
+
+          SortedDisplay sorted = new();
+          displays.Sort(sorted);
+          foreach(var item in displays){
+            Console.WriteLine($"PPI : {item.PPI} Resolution : {item.Resolution}");
+          }
+
+          
+
+
+
+
     }
 
 }
