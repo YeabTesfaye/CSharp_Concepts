@@ -1,0 +1,15 @@
+C:\Users\Yeabsra\Desktop\CSharp_Concepts\DelegatesAndEvents\obj\Debug\net8.0\DelegatesAndEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yeabsra\Desktop\CSharp_Concepts\DelegatesAndEvents\obj\Debug\net8.0\DelegatesAndEvents.AssemblyInfoInputs.cache
+C:\Users\Yeabsra\Desktop\CSharp_Concepts\DelegatesAndEvents\obj\Debug\net8.0\DelegatesAndEvents.AssemblyInfo.cs
+C:\Users\Yeabsra\Desktop\CSharp_Concepts\DelegatesAndEvents\obj\Debug\net8.0\DelegatesAndEvents.csproj.CoreCompileInputs.cache
+C:\Users\Yeabsra\Desktop\CSharp_Concepts\DelegatesAndEvents\obj\Debug\net8.0\DelegatesAndEvents.sourcelink.json
+C:\Users\Yeabsra\Desktop\CSharp_Concepts\DelegatesAndEvents\bin\Debug\net8.0\DelegatesAndEvents.exe
+C:\Users\Yeabsra\Desktop\CSharp_Concepts\DelegatesAndEvents\bin\Debug\net8.0\DelegatesAndEvents.deps.json
+C:\Users\Yeabsra\Desktop\CSharp_Concepts\DelegatesAndEvents\bin\Debug\net8.0\DelegatesAndEvents.runtimeconfig.json
+C:\Users\Yeabsra\Desktop\CSharp_Concepts\DelegatesAndEvents\bin\Debug\net8.0\DelegatesAndEvents.dll
+C:\Users\Yeabsra\Desktop\CSharp_Concepts\DelegatesAndEvents\bin\Debug\net8.0\DelegatesAndEvents.pdb
+C:\Users\Yeabsra\Desktop\CSharp_Concepts\DelegatesAndEvents\obj\Debug\net8.0\DelegatesAndEvents.dll
+C:\Users\Yeabsra\Desktop\CSharp_Concepts\DelegatesAndEvents\obj\Debug\net8.0\refint\DelegatesAndEvents.dll
+C:\Users\Yeabsra\Desktop\CSharp_Concepts\DelegatesAndEvents\obj\Debug\net8.0\DelegatesAndEvents.pdb
+C:\Users\Yeabsra\Desktop\CSharp_Concepts\DelegatesAndEvents\obj\Debug\net8.0\DelegatesAndEvents.genruntimeconfig.cache
+C:\Users\Yeabsra\Desktop\CSharp_Concepts\DelegatesAndEvents\obj\Debug\net8.0\ref\DelegatesAndEvents.dll
